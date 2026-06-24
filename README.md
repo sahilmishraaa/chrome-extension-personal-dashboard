@@ -64,7 +64,8 @@ Load it as a Chrome Extension:
 
 ## Screenshot
 
-Add a screenshot of the project here.
+<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/7c663f2f-334b-4f4a-bb12-e3d7f521abdf" />
+
 
 ## Future Improvements
 
